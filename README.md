@@ -81,8 +81,8 @@ MitosNucleares.Project/
 Pré-requisito: **.NET SDK 10** ([download](https://dotnet.microsoft.com/download/dotnet/10.0)). Com o .NET 8 o projeto não compila.
 
 ```bash
-git clone https://github.com/MaThPMJ/MitosNucleares.git
-cd MitosNucleares
+git clone https://github.com/nucleo-challenge/Advanced-Business-Development-with-.NET.git
+cd Advanced-Business-Development-with-.NET
 dotnet build
 dotnet run --project MitosNucleares.Project
 ```
